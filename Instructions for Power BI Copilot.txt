@@ -1,0 +1,16 @@
+Go to https://app.powerbi.com/home?ctid=458b97e8-dabe-43a5-9e79-ab1d7eaeabe7
+
+For Copilot in Power BI, there are a couple of options you can try. For example: Ask it to create a report, create a narrative visual, or use it to enhance Q&A.
+
+Get some data and check the links:
+
+https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction
+
+https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-report
+
+https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-prompts-report-pages
+
+https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-create-narrative?tabs=powerbi-service
+
+https://learn.microsoft.com/en-us/power-bi/natural-language/q-and-a-copilot-enhancements
+
