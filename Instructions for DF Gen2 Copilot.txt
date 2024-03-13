@@ -1,8 +1,0 @@
-Go to https://app.powerbi.com/home?ctid=458b97e8-dabe-43a5-9e79-ab1d7eaeabe7
-
-https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-data-factory
-
-Use OData and connect to https://services.odata.org/V4/Northwind/Northwind.svc/
-Select the Orders table, and then "select related tables".
-Try some transformations.
-
